@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Omipious",
+        "link": "https://youtu.be/dQw4w9WgXcQ?si=UFVQHJsYzdOJoE-D"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "nobody",
+        "link": "https://youtu.be/dQw4w9WgXcQ?si=UFVQHJsYzdOJoE-D"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "nobody too",
+        "link": "https://youtu.be/dQw4w9WgXcQ?si=UFVQHJsYzdOJoE-D"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "who do you think",
+        "link": "https://youtu.be/dQw4w9WgXcQ?si=UFVQHJsYzdOJoE-D"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Rick Astley",
+        "link": "https://youtu.be/dQw4w9WgXcQ?si=UFVQHJsYzdOJoE-D"
     }
 ]
